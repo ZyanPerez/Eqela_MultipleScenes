@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# wed08
+#
+
+projectname: wed08
+vendorid: com.mycompany
+mainmodule: com.mycompany.wed08

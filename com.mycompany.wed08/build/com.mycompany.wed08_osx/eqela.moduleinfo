@@ -1,0 +1,12 @@
+ldflags: -L.
+frameworks: Foundation,CoreGraphics,AppKit,QuartzCore,optional:SpriteKit
+depends: eq.api,com.eqela.libio,com.eqela.libos,com.eqela.libguiengine,com.eqela.libgui,com.eqela.libspriteengine,com.eqela.libspriteengine
+moduletype: customguiapplication
+platform: osx
+url: 
+license: 
+copyright: 
+version: 1.0.0
+description: 
+displayname: wed08
+id: com.mycompany.wed08
